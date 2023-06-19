@@ -1,4 +1,4 @@
-# Schedule for OpenScienceKE Hackathon 2018
+# Schedule for Genome Assembly and Annotation Hackathon 2023
 
 **Date:** June 21-23, 2023
 
